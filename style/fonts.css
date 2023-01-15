@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'OpenSans';
+    src: url(../fonts/OpenSans-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'RussoOne';
+    src: url(../fonts/RussoOne-Regular.ttf);
+    font-weight: 400;
+}
